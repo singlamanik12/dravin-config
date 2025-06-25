@@ -1,4 +1,4 @@
 {
-  "button_label_store": "Explore another store", //Manage Subscription
-  "message_store": "Go to another store", //Your subscription is currently active
+  "button_label_store": "Explore another store",
+  "message_store": "Go to another store",
 }
