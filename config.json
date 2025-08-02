@@ -1,7 +1,9 @@
 {
   "button_label_store": "See analytics",
   "message_store": "Go to dravin web",
+  "button_action": "https://dravinapp.com",
   "button_label_store_wr": "Subscription not active",
-  "message_store_wr": "Went to web"
+  "message_store_wr": "Went to web",
+  "button_action_wr": "https://dravinapp.com"
 }
 
