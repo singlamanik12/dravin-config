@@ -1,5 +1,7 @@
 {
   "button_label_store": "See analytics",
-  "message_store": "Go to dravin web"
+  "message_store": "Go to dravin web",
+  "button_label_store_wr": "Subscription not active",
+  "message_store_wr": "Went to web"
 }
 
