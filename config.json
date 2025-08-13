@@ -1,7 +1,7 @@
 {
   "button_label_store": "Visit website",
-  "message_store": "Go to dravin web",
-  "button_action": "https://dravinapp.com",
+  "message_store": "Need support?",
+  "button_action": "https://dravinapp.com/support",
   "button_label_store_wr": "Visit website",
   "message_store_wr": "Need support?",
   "button_action_wr": "https://dravinapp.com/support",
